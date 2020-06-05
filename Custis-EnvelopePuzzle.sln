@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Custis-EnvelopePuzzle", "Custis-EnvelopePuzzle\Custis-EnvelopePuzzle.csproj", "{C0793B30-E225-4353-9382-334853423209}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test1", "Test1\Test1.csproj", "{C037DF50-8E12-440B-99B9-FF6F40E1532E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0793B30-E225-4353-9382-334853423209}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0793B30-E225-4353-9382-334853423209}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0793B30-E225-4353-9382-334853423209}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0793B30-E225-4353-9382-334853423209}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C037DF50-8E12-440B-99B9-FF6F40E1532E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C037DF50-8E12-440B-99B9-FF6F40E1532E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C037DF50-8E12-440B-99B9-FF6F40E1532E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C037DF50-8E12-440B-99B9-FF6F40E1532E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8AA2E0C-91CB-4870-A552-92FC4B584422}
+	EndGlobalSection
+EndGlobal

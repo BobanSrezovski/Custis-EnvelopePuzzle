@@ -1,0 +1,13 @@
+C:\Users\ljafc\source\repos\Custis-EnvelopePuzzle\Custis-EnvelopePuzzle\bin\Debug\netcoreapp3.1\Custis-EnvelopePuzzle.exe
+C:\Users\ljafc\source\repos\Custis-EnvelopePuzzle\Custis-EnvelopePuzzle\bin\Debug\netcoreapp3.1\Custis-EnvelopePuzzle.deps.json
+C:\Users\ljafc\source\repos\Custis-EnvelopePuzzle\Custis-EnvelopePuzzle\bin\Debug\netcoreapp3.1\Custis-EnvelopePuzzle.runtimeconfig.json
+C:\Users\ljafc\source\repos\Custis-EnvelopePuzzle\Custis-EnvelopePuzzle\bin\Debug\netcoreapp3.1\Custis-EnvelopePuzzle.runtimeconfig.dev.json
+C:\Users\ljafc\source\repos\Custis-EnvelopePuzzle\Custis-EnvelopePuzzle\bin\Debug\netcoreapp3.1\Custis-EnvelopePuzzle.dll
+C:\Users\ljafc\source\repos\Custis-EnvelopePuzzle\Custis-EnvelopePuzzle\bin\Debug\netcoreapp3.1\Custis-EnvelopePuzzle.pdb
+C:\Users\ljafc\source\repos\Custis-EnvelopePuzzle\Custis-EnvelopePuzzle\obj\Debug\netcoreapp3.1\Custis-EnvelopePuzzle.csprojAssemblyReference.cache
+C:\Users\ljafc\source\repos\Custis-EnvelopePuzzle\Custis-EnvelopePuzzle\obj\Debug\netcoreapp3.1\Custis-EnvelopePuzzle.csproj.CoreCompileInputs.cache
+C:\Users\ljafc\source\repos\Custis-EnvelopePuzzle\Custis-EnvelopePuzzle\obj\Debug\netcoreapp3.1\Custis-EnvelopePuzzle.AssemblyInfoInputs.cache
+C:\Users\ljafc\source\repos\Custis-EnvelopePuzzle\Custis-EnvelopePuzzle\obj\Debug\netcoreapp3.1\Custis-EnvelopePuzzle.AssemblyInfo.cs
+C:\Users\ljafc\source\repos\Custis-EnvelopePuzzle\Custis-EnvelopePuzzle\obj\Debug\netcoreapp3.1\Custis-EnvelopePuzzle.dll
+C:\Users\ljafc\source\repos\Custis-EnvelopePuzzle\Custis-EnvelopePuzzle\obj\Debug\netcoreapp3.1\Custis-EnvelopePuzzle.pdb
+C:\Users\ljafc\source\repos\Custis-EnvelopePuzzle\Custis-EnvelopePuzzle\obj\Debug\netcoreapp3.1\Custis-EnvelopePuzzle.genruntimeconfig.cache
